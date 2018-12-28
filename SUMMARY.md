@@ -2,4 +2,5 @@
 
 * [Events](README.md)
 * [What is Event](guide.md)
+* [Event naming](event-naming.md)
 
