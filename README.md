@@ -1,2 +1,4 @@
-# events-book
+# Events
+
 Events repo for gitbook
+
