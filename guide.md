@@ -2,7 +2,7 @@
 description: Give definition about those concept around event.
 ---
 
-# Definitions
+# What is Event
 
 ## How we define Event?
 
@@ -13,23 +13,6 @@ description: Give definition about those concept around event.
 * [Streaming services event](https://www.oreilly.com/programming/free/designing-event-driven-systems.csp):  event both a fact and notification
 
 ![Command &amp; Event &amp; Query](.gitbook/assets/command-event-query.png)
-
-Domain Event: 
-
-```
-$ give me super-powers
-```
-
-{% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
-{% endhint %}
-
-Once you're strong enough, save the world:
-
-```
-// Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
 
 
 
