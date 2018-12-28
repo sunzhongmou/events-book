@@ -8,6 +8,8 @@ description: >-
 
 * Metadata
 * Payload
+  * Fine Grained with CRUD details, we will end up with too many events
+  * Coarse Grained, how could we help people to understand and maintain it easily? May be we could thinking about naming, subdomain and Schema.
 * Version
 
 
