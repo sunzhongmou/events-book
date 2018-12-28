@@ -10,7 +10,8 @@ description: Give definition about those concept around event.
 
 ![Domain Event](.gitbook/assets/domain-event.gif)
 
-* [Streaming services event](https://www.oreilly.com/programming/free/designing-event-driven-systems.csp):  event both a fact and notification
+* [Streaming services event](https://www.oreilly.com/programming/free/designing-event-driven-systems.csp):  event both a fact and notification. 
+  * [Event Notification](https://martinfowler.com/articles/201701-event-driven.html) is a good pattern and quite useful, but we need to pay attention to the trap. If an event used as passive-aggressive command, that means the source system expect recipient to carry out an action, that's the expectation  for command, not event.
 
 ![Command &amp; Event &amp; Query](.gitbook/assets/command-event-query.png)
 
